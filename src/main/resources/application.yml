@@ -1,0 +1,7 @@
+clusterDetail:
+  cluster1:
+    serverIp: 127.0.0.2
+    username: kailash
+  cluster2:
+    serverIp: 127.0.0.1
+    username: rumesh
